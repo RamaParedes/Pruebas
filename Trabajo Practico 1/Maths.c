@@ -1,4 +1,4 @@
-#include "Maths.h"
+#include "maths.h"
     //Uso de las funciones de "Maths.h" para suma, resta, multiplicación y división
 
     float suma(float x, float y)

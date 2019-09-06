@@ -1,5 +1,5 @@
 #include <stdlib.h>
-#include "Maths.h"
+#include "maths.h"
 int main()
 {
     //Declaro las variables.
