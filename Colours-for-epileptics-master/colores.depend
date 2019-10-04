@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1559184008 source:f:\usuarios\alumno\escritorio\colores\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1559187684 source:c:\users\apyr\desktop\colurs-epiliptic\colores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1559703292 source:c:\users\compumar\desktop\colours-for-epileptics-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
