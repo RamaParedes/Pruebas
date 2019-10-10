@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1556128445 source:c:\users\alumno\desktop\abm empleados basico\input.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1556129482 source:c:\users\alumno\desktop\abm empleados basico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"empleado.h"
+	"input.h"
+	"sector.h"
+
+1556129089 c:\users\alumno\desktop\abm empleados basico\empleado.h
+
+1556128982 c:\users\alumno\desktop\abm empleados basico\input.h
+
+1556129089 c:\users\alumno\desktop\abm empleados basico\sector.h
+
+1556126256 source:c:\users\alumno\desktop\abm empleados basico\sector.c
+
+1556129505 source:c:\users\alumno\desktop\abm empleados basico\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"empleado.h"
+	"input.h"
+	"sector.h"
+
+1557078834 source:g:\archivos sacados del disco d\tomy\programacion-y-laboratorio-1-master\abm empleados basico\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"empleado.h"
+	"input.h"
+	"sector.h"
+
+1557078834 g:\archivos sacados del disco d\tomy\programacion-y-laboratorio-1-master\abm empleados basico\empleado.h
+
+1557078834 g:\archivos sacados del disco d\tomy\programacion-y-laboratorio-1-master\abm empleados basico\input.h
+
+1557078834 g:\archivos sacados del disco d\tomy\programacion-y-laboratorio-1-master\abm empleados basico\sector.h
+
+1557078834 source:g:\archivos sacados del disco d\tomy\programacion-y-laboratorio-1-master\abm empleados basico\input.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1557078834 source:g:\archivos sacados del disco d\tomy\programacion-y-laboratorio-1-master\abm empleados basico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"empleado.h"
+	"input.h"
+	"sector.h"
+
+1557078834 source:g:\archivos sacados del disco d\tomy\programacion-y-laboratorio-1-master\abm empleados basico\sector.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"empleado.h"
+	"input.h"
+	"sector.h"
+

@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1557148389 source:d:\primer parcial\primer parcial\autores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"socios.h"
+	"prestamos.h"
+	"input.h"
+	"fechas.h"
+	"libros.h"
+
+1557155757 d:\primer parcial\primer parcial\socios.h
+	"libros.h"
+	"autores.h"
+	"fechas.h"
+
+1557155534 d:\primer parcial\primer parcial\libros.h
+
+1557155723 d:\primer parcial\primer parcial\autores.h
+
+1557146468 d:\primer parcial\primer parcial\fechas.h
+
+1557155646 d:\primer parcial\primer parcial\prestamos.h
+	"libros.h"
+	"autores.h"
+	"fechas.h"
+
+1557078834 d:\primer parcial\primer parcial\input.h
+
+1557148375 source:d:\primer parcial\primer parcial\fechas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"socios.h"
+	"prestamos.h"
+	"input.h"
+	"libros.h"
+	"autores.h"
+
+1557146129 source:d:\primer parcial\primer parcial\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557148375 source:d:\primer parcial\primer parcial\libros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"socios.h"
+	"prestamos.h"
+	"input.h"
+	"fechas.h"
+	"autores.h"
+
+1557155682 source:d:\primer parcial\primer parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"socios.h"
+	"prestamos.h"
+	"input.h"
+	"fechas.h"
+	"libros.h"
+	"autores.h"
+
+1557148417 source:d:\primer parcial\primer parcial\prestamos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"socios.h"
+	"input.h"
+	"fechas.h"
+	"libros.h"
+	"autores.h"
+
+1557148390 source:g:\archivos sacados del disco d\primer parcial\primer parcial\autores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"socios.h"
+	"prestamos.h"
+	"input.h"
+	"fechas.h"
+	"libros.h"
+
+1557155758 g:\archivos sacados del disco d\primer parcial\primer parcial\socios.h
+	"libros.h"
+	"autores.h"
+	"fechas.h"
+
+1557155536 g:\archivos sacados del disco d\primer parcial\primer parcial\libros.h
+
+1557155724 g:\archivos sacados del disco d\primer parcial\primer parcial\autores.h
+
+1557146470 g:\archivos sacados del disco d\primer parcial\primer parcial\fechas.h
+
+1557155648 g:\archivos sacados del disco d\primer parcial\primer parcial\prestamos.h
+	"libros.h"
+	"autores.h"
+	"fechas.h"
+
+1557078834 g:\archivos sacados del disco d\primer parcial\primer parcial\input.h
+
+1557148376 source:g:\archivos sacados del disco d\primer parcial\primer parcial\fechas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"socios.h"
+	"prestamos.h"
+	"input.h"
+	"libros.h"
+	"autores.h"
+
+1557146130 source:g:\archivos sacados del disco d\primer parcial\primer parcial\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557148376 source:g:\archivos sacados del disco d\primer parcial\primer parcial\libros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"socios.h"
+	"prestamos.h"
+	"input.h"
+	"fechas.h"
+	"autores.h"
+
+1557155684 source:g:\archivos sacados del disco d\primer parcial\primer parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"socios.h"
+	"prestamos.h"
+	"input.h"
+	"fechas.h"
+	"libros.h"
+	"autores.h"
+
+1557148418 source:g:\archivos sacados del disco d\primer parcial\primer parcial\prestamos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"socios.h"
+	"input.h"
+	"fechas.h"
+	"libros.h"
+	"autores.h"
+
