@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1555333705 source:c:\users\alumno\desktop\estructuras2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+
+1555944002 source:c:\users\alumno\desktop\estructuraslunes\estructuras2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+
+1555963320 source:c:\users\gbcat\onedrive\escritorio\archivos-del-profesor-de-programacion-y-laboratorio-1-master\abmsector\estructuras2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1570231836 source:g:\archivos sacados del disco d\programacion-y-laboratorio-1-master\abmsector\estructuras2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Employee.h"
+
+1570231836 g:\archivos sacados del disco d\programacion-y-laboratorio-1-master\abmsector\estructuras2\employee.h
+
